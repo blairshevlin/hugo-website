@@ -14,12 +14,6 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
 
 params:
     description: "I am Blair Shevlin, a Postdoctoral Researcher at the Center for Computational Psychiatry hosted at the Icahn School of Medicine at Mount Sinai. My research covers decision-making, computational modeling, and psychiatry."
@@ -69,7 +63,7 @@ params:
         - name: Email
           url: mailto:blairshevlin@gmail.com
         - name: Location
-          url: Center for Computational Psychiatry, Icahn School of Medicine, New York, NY
+          url: https://maps.app.goo.gl/PFFhvv91jRj6RhyZ9
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=J_t6LicAAAAJ
         - name: GitHub
